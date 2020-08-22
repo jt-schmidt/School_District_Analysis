@@ -22,10 +22,24 @@ During challenge portion of the exercise, it was given 9th grade scores for a sp
 <!---Results:
 There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data (10 pt).--->
 ## Results
+Identification & highlight of differences as a result of setting Thomas High School 9th grade reading & math scores to "NaN".
+
+For District Summary:
+- Average Math Score reduced by 0.1
+- % Passing Math reduced by 0.2%
+- % Passing Reading reduced by 0.1%
+- % Overall Passing reduced by 0.3%
 ![district_summary_df_comparison](/resources/district_summary_df_comparison.PNG)
 
+For Per School Summary & Thomas High School specifically:
+- Average Math Score change from 83.418 to 83.351
+- Average Reading Score change from 83.849 to 83.896
+- % Passing Math change from 93.272% to 93.186%
+- % Passing Reading from 97.309% to 97.019%
+- % Overall Passing from 90.948% to 90.630%
 ![per_school_summary_df_comparison](/resources/per_school_summary_df_comparison.PNG)
 
+For Per School Ranking, Thomas High School experienced no change in ranking based on Overall Passing % despite the change in Overall Passing % due to removal of 9th grade scores.
 ![TOP_per_school_summary_df_comparison](/resources/TOP_per_school_summary_df_comparison.PNG)
 
 ![scores_by_grade_comparison](/resources/scores_by_grade_comparison.PNG)
