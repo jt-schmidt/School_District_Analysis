@@ -55,6 +55,9 @@ For comparisons by Spending, Size, and Type:
 <!---Summary:
 There is a statement summarizing four major changes to the school district analysis after reading and math scores have been replaced (5 pt).--->
 ## Summary
-
-
-
+Overall, removal of Thomas High School's 9th grade reading & math scores had small measureable affects on school district analysis.  
+The primary differences are in:
+1.  District Summary for all results except Average Reading Score
+2.  Thomas High School specifically for Math, Reading, and Overall result.  This would be affected since portion of this data set modified to NaN.
+3.  Binned comparison by Spending for $630~$644 shifted the most
+4.  Smallest, but still detectable, change was binned comparison by Size for Medium (1000-2000).
