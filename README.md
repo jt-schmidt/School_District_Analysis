@@ -22,7 +22,15 @@ During challenge portion of the exercise, it was given 9th grade scores for a sp
 <!---Results:
 There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data (10 pt).--->
 ## Results
-![test](/resources/Summary_by_Type(Challenge).PNG)
+![district_summary_df_comparison](/resources/district_summary_df_comparison.PNG)
+
+![per_school_summary_df_comparison](/resources/per_school_summary_df_comparison.PNG)
+
+![TOP_per_school_summary_df_comparison](/resources/TOP_per_school_summary_df_comparison.PNG)
+
+![scores_by_grade_comparison](/resources/scores_by_grade_comparison.PNG)
+
+![comparison_by_spending-size-type](/resources/comparison_by_spending-size-type.PNG)
 
 
 <!---Summary:
