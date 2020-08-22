@@ -42,10 +42,15 @@ For Per School Summary & Thomas High School specifically:
 For Per School Ranking, Thomas High School experienced no change in ranking based on Overall Passing % despite the change in Overall Passing % due to removal of 9th grade scores.
 ![TOP_per_school_summary_df_comparison](/resources/TOP_per_school_summary_df_comparison.PNG)
 
+For Score Comparison by Grade, the only highlight is "NaN" for Thomas High School 9th grade reading & math scores.
 ![scores_by_grade_comparison](/resources/scores_by_grade_comparison.PNG)
 
+For comparisons by Spending, Size, and Type:
+- Spending experienced the most change due to removal of Thomas High School 9th grade scores.
+  - Thomas High School is in the $630~$644 bin and all summary values changed by some small amount (see image insert)
+- For Size, Thomas High School was in the Medium (1000-2000) bin & only change was from % Passing Reading by 0.1%
+- For School Type comparison, Thomas High School was in the Charter bin and there was no measureable difference in summary result.
 ![comparison_by_spending-size-type](/resources/comparison_by_spending-size-type.PNG)
-
 
 <!---Summary:
 There is a statement summarizing four major changes to the school district analysis after reading and math scores have been replaced (5 pt).--->
