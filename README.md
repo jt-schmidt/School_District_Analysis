@@ -4,16 +4,16 @@ Module 4 including work with Anaconda, Jupyter Labs, Python
 ## Overview
 
 
+## Results
 ![test](/resources/Summary_by_Type(Challenge).PNG)
 
 
-There is a title, and there are multiple sections (2 pt).
-Each section has a heading and subheading (3 pt).
-Links to images are working, and code is formatted and displayed correctly (2 pt).
-Analysis (18 points)
-The written analysis has the following:
-
-Overview of the school district analysis:
+<!---There is a title, and there are multiple sections (2 pt).
+<!---Each section has a heading and subheading (3 pt).
+<!---Links to images are working, and code is formatted and displayed correctly (2 pt).
+<!---Analysis (18 points)
+<!---The written analysis has the following:
+Overview of the school district analysis:--->
 
 The purpose of this analysis is well defined (3 pt).
 Results:
