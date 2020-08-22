@@ -3,11 +3,9 @@ Module 4 including work with Anaconda, Jupyter Labs, Python
 
 ## Overview
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
 
 ![test](/resources/Summary_by_Type(Challenge).PNG)
-Format: ![Alt Text](url)
+
 
 There is a title, and there are multiple sections (2 pt).
 Each section has a heading and subheading (3 pt).
