@@ -17,7 +17,7 @@ During coursework exercise, this data would be summarized into dataframes accord
 - passing reading, math, and overall scores (>= 70) in terms of count and percentage
 - binned grouping analysis by school type, spending per student, and school size
 
-During challenge portion of the exercise, it was given 9th grade scores for a specific school (Thomas High School) were altered.  To address, challenge was to remove 9th grade reading & math scores from the data for all schools, repeat analysis performed during coursework exercise, and compare difference in summary.
+During challenge portion of the exercise, it was given 9th grade scores for a specific school (Thomas High School) were altered.  To address, challenge was to remove 9th grade reading & math scores from the data for Thomas High School, repeat analysis performed during coursework exercise, and identify difference in summary.
 
 <!---Results:
 There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data (10 pt).--->
